@@ -5,6 +5,7 @@ body {
 
 #image {
     width: 80vw;
+    cursor: pointer;
 }
 
 #image-container {
